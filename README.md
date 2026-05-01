@@ -6,13 +6,6 @@ In my daily work, I deal with microservices, REST APIs, relational and document�
 
 ---
 
-### 🚀 Open For Work
-I am currently open to roles in SaaS companies, in‑house engineering teams, or service providers with very low travel requirements and transparent end‑customer involvement. Remote work within Germany or the EU is preferred; occasional on‑site meetings in Germany can be arranged when necessary.
-
-Please do not send offers from staffing agencies, labor‑leasing companies, or body‑leasing models without clear end‑customer transparency.
-
----
-
 ## 🧠 Skills
 #### 💻 Programming Languages & Web Technologies
 - JavaScript, TypeScript, Java, Kotlin  
@@ -73,19 +66,3 @@ Please do not send offers from staffing agencies, labor‑leasing companies, or 
 ### 📁 About My Repositories
 Due to confidentiality and NDA obligations, I do not publish work‑related repositories.  
 However, I am happy to discuss my experience, architectural approaches, and technologies used in past projects.
-
-
-<!--
-**dev-ws-tg021/dev-ws-tg021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
